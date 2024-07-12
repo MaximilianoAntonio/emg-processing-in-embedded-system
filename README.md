@@ -1,37 +1,32 @@
 
-# Procesado de Señales de Electromiografía 
+# Electromyography Signal Processing
 
-Repositorio de proyecto colaborativo sobre el procesado de señales de electromiografía (EMG) 
+Collaborative project repository on electromyography (EMG) signal processing
 
-## Descripción del Proyecto
+## Project Description
 
-En este proyecto, el enfoque primordial ha sido el **procesado de las señales de electromiografía**, explorando su aplicación en la interfaz humano-máquina y el control de dispositivos electrónicos mediante la actividad muscular. Con el respaldo y los recursos proporcionados por el **FabLab UV**, el objetivo último de contribuir al desarrollo de tecnologías avanzadas en el ámbito de las prótesis biónicas.
+In this project, the primary focus has been on **electromyography signal processing**, exploring its application in human-machine interfaces and the control of electronic devices through muscle activity. With the support and resources provided by **FabLab UV**, the ultimate goal is to contribute to the development of advanced technologies in the field of bionic prosthetics.
 
-## Objetivos del Proyecto actual
+## Current Project Objectives
 
-1.  **Captura de Señales EMG:** Utilizando sensores especializados, he recopilado datos de señales electromiografías durante actividades específicas.
+1. **EMG Signal Capture:** Using specialized sensors, I have collected EMG signal data during specific activities.
     
-2.  **Procesamiento de Señales:** He implementado algoritmos de procesamiento de señales para filtrar, analizar y extraer patrones relevantes de las señales EMG capturadas.
+2. **Signal Processing:** I have implemented signal processing algorithms to filter, analyze, and extract relevant patterns from the captured EMG signals.
     
-3.  **Interfaz Humano-Máquina:** Exploré la integración de las señales procesadas para controlar dispositivos electrónicos, llevando a cabo acciones específicas mediante la actividad muscular.
-    
-
-## Estructura del Repositorio
-
--   **/Datos:** Contiene los conjuntos de datos utilizados en el proyecto.
-    
--   **/Scripts:** Aquí encontrarás los scripts y códigos fuente empleados para el procesamiento de señales EMG.
-    
--   **/Resultados:** Incluye resultados, gráficos y visualizaciones derivadas del análisis de las señales.
-    
--   **/Documentación:** Documentación detallada sobre el proyecto, incluyendo instrucciones de reproducción y explicaciones sobre los métodos implementados.
+3. **Human-Machine Interface:** I explored the integration of processed signals to control electronic devices, performing specific actions through muscle activity.
     
 
-## Replicado y uso del proyecto
+## Repository Structure
 
-Se está abierto al libre uso y replicado como mejoramiento del proyecto. Si encuentras áreas de mejora o tienes ideas para ampliar este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción. La colaboración enriquecerá aún más este trabajo.
+- **/Data:** Contains the datasets used in the project.
+    
+- **/Scripts:** Here you will find the scripts and source code used for EMG signal processing.
+    
+- **/Results:** Includes results, graphs, and visualizations derived from signal analysis.
+    
+- **/Documentation:** Detailed documentation about the project, including reproduction instructions and explanations of the implemented methods.
+    
 
-¡Gracias por leer!
 
 <h3 align="left">Redes Fablab UV:</h3>
 <p align="left">
